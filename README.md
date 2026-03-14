@@ -77,7 +77,9 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-<img width="637" height="473" alt="image" src="https://github.com/user-attachments/assets/a815f346-6acc-49ec-9ed4-e9be105cda30" />
+
+<img width="964" height="576" alt="image" src="https://github.com/user-attachments/assets/39b99620-97df-4b37-867c-ca34f3c68816" />
+
 
 
 
@@ -94,7 +96,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-<img width="810" height="944" alt="image" src="https://github.com/user-attachments/assets/5f0f9869-ae43-4bf3-9f20-0b4f88b1463a" />
+<img width="975" height="979" alt="image" src="https://github.com/user-attachments/assets/d66f4d58-74ab-4826-9eb3-6bf6d981d5cc" />
 
 
 
@@ -116,7 +118,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-![Screenshot 2025-05-14 090339](https://github.com/user-attachments/assets/0e7bf30c-36c4-4ea4-aec8-e76b549d3980)
+
+<img width="964" height="576" alt="image" src="https://github.com/user-attachments/assets/39b99620-97df-4b37-867c-ca34f3c68816" />
 
 
 
